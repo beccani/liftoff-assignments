@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This application will allow the user to create a packing checklist for upcoming trips. They will be able to create the list and then modify the list with items. They will be able to save the list to come back to at a later time.
+
 ### Features
-Include Features here
+Create List - Create a list for a trip that will hold the items needed
+Modify items - The user will be able to add or delete items
+User login - The user will be able to save lists to their user profile to save lists to use later
+
+
 ### Technologies
-Include Technologies here
+I plan to use:
+  JavaScript
+  Tailwind CSS  
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn Tailwind Css, but that is the only new technology I will need to learn. 
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/i89ckIVD/packing-checklist
+
