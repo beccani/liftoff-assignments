@@ -17,4 +17,3 @@ https://www.linkedin.com/in/beccanjohnson/
 
 ### Resume
 
-[Resume.pdf](https://github.com/beccani/liftoff-assignments/files/6446300/Resume.pdf)
